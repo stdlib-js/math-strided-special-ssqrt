@@ -1,0 +1,44 @@
+{
+  "name": "@stdlib/math-strided-special-ssqrt",
+  "version": "0.0.0",
+  "description": "Compute the principal square root for each element in a single-precision floating-point strided array.",
+  "license": "Apache-2.0",
+  "type": "module",
+  "main": "./mod.js",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/math-strided-special-ssqrt.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdmath",
+    "mathematics",
+    "math",
+    "trig",
+    "math.sqrt",
+    "sqrt",
+    "principal",
+    "square",
+    "root",
+    "power",
+    "number",
+    "single-precision",
+    "float",
+    "flt",
+    "float32",
+    "float32array",
+    "vector",
+    "array",
+    "strided",
+    "ndarray",
+    "element-wise"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
